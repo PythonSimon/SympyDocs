@@ -1,0 +1,1 @@
+SymPy Cas 可以被安装在几乎任何一台装有Python的计算机上。SymPy 依赖于 Python 库 mpmath，请先安装该库。这里推荐通过 Anaconda 来安装。Anaconda 包含了 mpmath 以及许多其他有用的库。同时，一些版本的 Linux 提供了可用的 SymPy 包。
